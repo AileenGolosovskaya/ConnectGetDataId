@@ -4,7 +4,7 @@
 			{
 			"g_ad":"1",
 			"fb_ad":"0",
-			"g_ad_admob":"1",
+			"g_ad_admob":"0",
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"/21952429235,22644075336/TTS_WOXXIN_2_5GSPEEDTESTANDAPPMONITOR_OPEN_AD",
