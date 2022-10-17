@@ -15,7 +15,8 @@
 			"adfbinterstial_id":"899464530655376_899465597321936",
 			"adfbnative_id":"899464530655376_899465887321907",
 			"adfbnative_banner_id":"899464530655376_899466113988551",		
-			"adfbrectangle_banner_id":"899464530655376_899466507321845"
+			"adfbrectangle_banner_id":"899464530655376_899466507321845",
+			"adShow_time_duration":"2"
 			}
 		]
 }
